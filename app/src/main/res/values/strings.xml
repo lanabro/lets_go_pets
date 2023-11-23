@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lets Go Pets</string>
+    <string name="auth_text">Авторизация</string>
+    <string name="enter_your_phone">Введите номер телефона</string>
+    <string name="enter_code">Введите код</string>
+    <string name="code">Код подтверждения</string>
+    <string name="login">ВОЙТИ</string>
+    <string name="navname">Навигационная кнопка</string>
+    <string name="check">ПРОВЕРИТЬ</string>
+</resources>
